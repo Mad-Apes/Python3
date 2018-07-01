@@ -11,27 +11,27 @@
 	
 	Python 允许整数具有无限精度，只要内存空间允许，整数可以是无限长度的数字。
 	
- ### 浮点数 float 带有小数部分的数字
+ ## 浮点数 float 带有小数部分的数字
 	DEMO:
 	var_num_1 = 3.14
 	var_num_2 = 3.14e-10
 	
- ### 复数 complex
+ ## 复数 complex
 	DEMO:
 	var_num_1 = 3 + 4j
 	var_num_2 = 3 + 4J
 	
- ### 布尔 bool
+ ## 布尔 bool
 	
 	
- ### 十六进制的数字
+ ## 十六进制的数字
 	DEMO:
 	var_num_1 = 0x9ff
 	
- ### 二进制的数字
+ ## 二进制的数字
 	DEMO:
 	var_num_1 = 0b10101
 	
- ### 八进制的数字
+ ## 八进制的数字
 	DEMO:
 	var_num_1 = 0o177
